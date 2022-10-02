@@ -49,8 +49,6 @@ TFIDF representation
 * numpy
 * codecs
 * ntlk
-* hashlib
-* flask
 
 ## License
 
