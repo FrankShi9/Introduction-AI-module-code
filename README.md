@@ -2,7 +2,7 @@
 
 ## Description
 
-AS1
+### AS1
 Introduction:
 In the problem, we are given a two-dimensional 100x6 array stored in a .csv 
 file, where each row represents an instance (or object). For each row, the 
@@ -22,7 +22,7 @@ count and use divisions to calculate probabilities. In addition, dynamic
 programming techniques are employed to store the frequently used #{l = 0} 
 and #{l = 1} in a bid to reduce the time overhead.
 
-AS2
+### AS2
 Introduction
 Text categorization is focused on classifying a set of documents into categories of 
 predefined labels. Texts cannot be directly handled by our model. The indexing 
